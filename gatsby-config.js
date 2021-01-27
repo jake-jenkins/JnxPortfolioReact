@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "JakeJnx.com",
+    siteUrl: "https://jakejnx.com"
   },
   plugins: [
     "gatsby-plugin-sharp",
