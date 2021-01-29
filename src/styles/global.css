@@ -6,6 +6,10 @@
     height: 80px;
     padding: 10px;
   }
+
+  .lni-whatsapp {
+    font-size: 2.6rem;
+  }
   
   main {
     min-height: Calc(100vh - 168px);
@@ -17,4 +21,11 @@
   
   h1 {
     font-size: 2rem;
+    color: rgb(29, 78, 216,1)
   }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  @import 'https://jnxstatic.b-cdn.net/lineicons/font-css/LineIcons.css';

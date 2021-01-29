@@ -11,13 +11,13 @@ const Header = ({ siteTitle }) => (
     </a>
   </div>
   <div class="flex-1 text-center space-x-2">
-    <a href="/" class="py-2 px-2 font-semibold text-white bg-blue-800 hover:bg-blue-600 rounded-md">Home</a>
-    <a href="/about" class="py-2 px-2 font-semibold text-white bg-blue-800 hover:bg-blue-600 rounded-md">About</a>
+    <a href="/" class="py-2 px-2 font-semibold text-white bg-blue-800 hover:bg-blue-600 rounded-md active:bg-green-700">Home</a>
     <a href="/portfolio" class="py-2 px-2 font-semibold text-white bg-blue-800 hover:bg-blue-600 rounded-md">Portfolio</a>
+    <a href="/blog" class="py-2 px-2 font-semibold text-white bg-blue-800 hover:bg-blue-600 rounded-md">Blog</a>
     </div>
   <div class="p-4 flex-none text-right">
-    <a href="/contact" class="py-2 px-2 font-semibold text-black bg-yellow-400	 hover:bg-yellow-300 rounded-md">
-  Contact
+    <a href="/contact">
+    <i class="lni lni-whatsapp"></i>
 </a>
     </div>
 </div>

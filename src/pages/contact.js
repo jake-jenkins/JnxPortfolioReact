@@ -5,9 +5,10 @@ const Contact = () => {
   return (
     
 <Layout>
-<h1>About Us</h1>
-<p>Please note that Jake Jenkins is a sole trader, Trading as SpeedyWeb.Dev</p>
-<h2>Talk to us right away</h2>
+<h1>Contact JNX Web Development</h1>
+<p>Please note that Jake Jenkins is a sole trader, Trading as JNX</p>
+<p>&nbsp;</p>
+<h2>Talk to me right away</h2>
 <p>
 <a href="tel:+442920001404"><i class="lni lni-phone"></i> 02920 001 404</a>
 <br/>
@@ -17,7 +18,7 @@ const Contact = () => {
 <br/>
 <a href="https://github.com/speedywebdev" target="_blank"><i class="lni lni-github-original"></i> speedywebdev</a>
 </p>
-
+<p>&nbsp;</p>
 <p><h2>Write to us</h2></p>
 <p>
 SpeedyWeb.Dev<br/>
