@@ -1,9 +1,15 @@
 import React from "react"
+import Header from "./header"
+import Footer from "./footer"
+
 export default function Layout({ children }) {
-  return (
-    <div style={{ margin: `3rem auto`, maxWidth: 650, padding: `0 1rem` }}>
-      <h1>JakeJnx.com</h1>
-      {children}
-    </div>
-  )
-}
+    return (
+      <div>
+          <Header />
+  <main class="container mx-auto px-4 py-5">
+        {children}
+        </main>
+ <Footer/>
+      </div>
+    )
+  }
