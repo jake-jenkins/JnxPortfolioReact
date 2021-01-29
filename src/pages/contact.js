@@ -14,9 +14,9 @@ const Contact = () => {
 <br/>
 <a href="mailto:hello@speedyweb.dev"><i class="lni lni-envelope"></i> hello@speedyweb.dev</a>
 <br/>
-<a href="https://twitter.com/speedywebdev" target="_blank"><i class="lni lni-twitter-filled"></i> speedywebdev</a>
+<a href="https://twitter.com/speedywebdev" target="_blank" rel="noreferrer"><i class="lni lni-twitter-filled"></i> speedywebdev</a>
 <br/>
-<a href="https://github.com/speedywebdev" target="_blank"><i class="lni lni-github-original"></i> speedywebdev</a>
+<a href="https://github.com/speedywebdev" target="_blank" rel="noreferrer"><i class="lni lni-github-original"></i> speedywebdev</a>
 </p>
 <p>&nbsp;</p>
 <p><h2>Write to us</h2></p>
