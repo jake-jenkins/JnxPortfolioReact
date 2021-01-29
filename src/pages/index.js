@@ -4,8 +4,11 @@ import Layout from "../components/layout"
 const IndexPage = () => {
   return (
 <Layout>
-<div class="box-content p-20 rounded-xl text-white text-5xl text-center bg-gradient-to-r from-purple-900 to-purple-500">
-Lets Build Awesome Web Apps and Websites
+<br/>
+<div class="box shadow-xl rounded-b-xl rounded-t-md text-center text-white text-5xl py-36 px-5 bg-gradient-to-r from-purple-900 to-purple-500">
+  <p>
+    Lets Build Awesome Web Apps & Websites
+  </p>
 </div>
 <br />
 <h1>Welcome to JakeJnx.com</h1>
