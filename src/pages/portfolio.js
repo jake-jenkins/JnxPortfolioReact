@@ -7,8 +7,8 @@ const Portfolio = () => (
     <br/>
     <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-4 text-center">
 
-<div class="shadow-md">
-    <div class="h-64 p-4 bg-red-600">
+<div class="shadow-md rounded-b-xl">
+    <div class="h-64 p-4 bg-red-600 rounded-t-xl">
       </div>
       <div class="p-8">
         <h2>Patient Portal</h2>
@@ -17,8 +17,8 @@ const Portfolio = () => (
   </div>
 
 
- <div class="shadow-md">
-    <div class="h-64 p-4 bg-yellow-400">
+ <div class="shadow-md rounded-b-xl">
+    <div class="h-64 p-4 bg-yellow-400 rounded-t-xl">
       </div>
       <div class="p-8">
         <h2>Student Helpdesk</h2>
@@ -26,32 +26,32 @@ const Portfolio = () => (
       </div>
   </div>
 
-<div class="shadow-md">
-    <div class="h-64 p-4 bg-green-600">
+<div class="shadow-md rounded-b-xl">
+    <div class="h-64 p-4 bg-green-600 rounded-t-xl">
       </div>
       <div class="p-8">
         <h2>Sexual Health App</h2>
     Text
       </div>
   </div>
-  <div class="shadow-md">
-    <div class="h-64 p-4 bg-purple-600">
+  <div class="shadow-md rounded-b-xl">
+    <div class="h-64 p-4 bg-purple-600 rounded-t-xl">
       </div>
       <div class="p-8">
         <h2>jnx Website</h2>
     Text
       </div>
   </div>
-  <div class="shadow-md">
-    <div class="h-64 p-4 bg-indigo-600">
+  <div class="shadow-md rounded-b-xl">
+    <div class="h-64 p-4 bg-indigo-600 rounded-t-xl">
       </div>
       <div class="p-8">
         <h2>Sharepoint Intranet</h2>
     Text
       </div>
   </div>
-  <div class="shadow-md">
-    <div class="h-64 p-4 bg-blue-600">
+  <div class="shadow-md rounded-b-xl">
+    <div class="h-64 p-4 bg-blue-600 rounded-t-xl">
       </div>
       <div class="p-8">
         <h2>Java Desktop App</h2>
