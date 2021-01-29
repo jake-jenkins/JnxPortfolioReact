@@ -11,14 +11,14 @@ const Header = ({ siteTitle }) => (
     </a>
   </div>
   <div class="flex-1 text-center space-x-2">
-    <a href="/"><button class="py-2 px-4 font-semibold text-white bg-blue-800 hover:bg-blue-600">Home</button></a>
-    <a href="/about"><button class="py-2 px-4 font-semibold text-white bg-blue-800 hover:bg-blue-600">About</button></a>
-    <a href="/portfolio"><button class="py-2 px-4 font-semibold text-white bg-blue-800 hover:bg-blue-600">Portfolio</button></a>
+    <a href="/" class="py-2 px-2 font-semibold text-white bg-blue-800 hover:bg-blue-600">Home</a>
+    <a href="/about" class="py-2 px-2 font-semibold text-white bg-blue-800 hover:bg-blue-600">About</a>
+    <a href="/portfolio" class="py-2 px-2 font-semibold text-white bg-blue-800 hover:bg-blue-600">Portfolio</a>
     </div>
   <div class="p-4 flex-none text-right">
-    <a href="/contact"><button class="py-2 px-4 font-semibold text-black bg-yellow-400	 hover:bg-yellow-300">
-  Contact Me
-</button></a>
+    <a href="/contact" class="py-2 px-2 font-semibold text-black bg-yellow-400	 hover:bg-yellow-300">
+  Contact
+</a>
     </div>
 </div>
     </div>
