@@ -35,7 +35,7 @@ const Portfolio = () => (
       </div>
   </div>
   <div class="shadow-md rounded-b-xl">
-    <div class="h-64 p-4 bg-purple-600 rounded-t-xl">
+    <div class="h-64 p-4 bg-blue-600 rounded-t-xl">
       </div>
       <div class="p-8">
         <h2>jnx Website</h2>
@@ -51,7 +51,7 @@ const Portfolio = () => (
       </div>
   </div>
   <div class="shadow-md rounded-b-xl">
-    <div class="h-64 p-4 bg-blue-600 rounded-t-xl">
+    <div class="h-64 p-4 bg-purple-600 rounded-t-xl">
       </div>
       <div class="p-8">
         <h2>Java Desktop App</h2>
