@@ -15,58 +15,45 @@ const IndexPage = () => {
 <p>Jake Jenkins is a Front End Web Developer.</p>
 <p>&nbsp;</p>
 
+<div class="grid grid-cols-1 md:grid-cols-2">
+  <div class="text-lg p-6">
+  <h2>Why work with me?</h2><br/>
+    <div class="box-border h-4 w-4 bg-green-400 inline-block rounded-full"></div> I work in partnership and love working with users<br/>
+    <div class="box-border h-4 w-4 bg-green-400 inline-block rounded-full"></div> I always go the extra mile<br/>
+    <div class="box-border h-4 w-4 bg-green-400 inline-block rounded-full"></div> I make the complex, simple<br/>
+    <div class="box-border h-4 w-4 bg-green-400 inline-block rounded-full"></div> I am experienced in design and build
+  </div>
+  <div class="text-lg p-6">
+  <h2>What makes a great app or site?</h2><br/>
+  <div class="box-border h-4 w-4 bg-blue-400 inline-block rounded-full"></div> Blazing Fast, latest technology<br/>
+  <div class="box-border h-4 w-4 bg-blue-400 inline-block rounded-full"></div> Easy to Update<br/>
+  <div class="box-border h-4 w-4 bg-blue-400 inline-block rounded-full"></div> Publishing Control<br/>
+  <div class="box-border h-4 w-4 bg-blue-400 inline-block rounded-full"></div> Secure<br/>
+<div class="box-border h-4 w-4 bg-blue-400 inline-block rounded-full"></div> Optimised for search engines
+
+  </div>
+  <div class="text-lg p-6">
+    <h2>Core Technologies</h2><br/>
+      <div class="box-border h-4 w-4 bg-purple-600 inline-block rounded-full"></div> REACT<br/>
+      <div class="box-border h-4 w-4 bg-purple-600 inline-block rounded-full"></div> node.js<br/>
+      <div class="box-border h-4 w-4 bg-purple-600 inline-block rounded-full"></div> HTML, CSS, SASS<br/>
+      <div class="box-border h-4 w-4 bg-purple-600 inline-block rounded-full"></div> Tailwind, Bootstrap and Bulma<br/>
+      <div class="box-border h-4 w-4 bg-purple-600 inline-block rounded-full"></div> .net Core Web Applications<br/>
+      <div class="box-border h-4 w-4 bg-purple-600 inline-block rounded-full"></div> Web Api<br/>
+      <div class="box-border h-4 w-4 bg-purple-600 inline-block rounded-full"></div> MVC, Entity Framework<br/>
+
+  </div>
+  <div class="text-lg p-6">
+    <h2>Availability</h2><br/>
+    <div class="box-border h-4 w-4 bg-pink-500 inline-block rounded-full"></div> Looking for a new role<br/>
+    <div class="box-border h-4 w-4 bg-pink-500 inline-block rounded-full"></div> Remote working or based in South Wales or Bristol<br/>
+    <div class="box-border h-4 w-4 bg-pink-500 inline-block rounded-full"></div> 1 month notice period
+  </div>
+
+</div>
+
 <p>&nbsp;</p>
 
-<div class="grid grid-flow-col grid-rows-2 grid-cols-3 gap-4">
-  <div>
-        <h2>Commercial Experience</h2>
-    <ul>
-<li>HTML, CSS and SASS</li>
-<li>C# and .net</li>
-<li>MVC</li>
-<li>REACT</li>
-<li>Java and JavaScript</li>
-<li>Frameworks: Bootstrap, Bulma and w3.css.</li>
-<li>Content Management Systems; Drupal, Wordpress, Joomla, Jekyll, Grav</li>
-<li>Oracle APEX, Application Express</li>
-<li>Office 365 and Azure Active Directory</li>
-</ul>
-  </div>
-  <div class="col-start-3">
-    <h2>Availability for work</h2>
-  </div>
-  <div>
-    <h2>Core Technologies</h2>
-    <ul>
-      <li>REACT</li>
-      <li>node.js</li>
-      <li>HTML, CSS, SASS</li>
-      <li>Tailwind, Bootstrap and Bulma</li>
-      <li>.net Core Web Applications</li>
-      <li>Web Api</li>
-      <li>MVC, Entity Framework</li>
-    </ul>
-  </div>
-  <div>
-    <h2>Why work with JNX?</h2>
-    <ul>
-<li>Building a website or app is a partnership and we love working with our customers.</li>
-<li>We always go the extra mile.</li>
-<li>We make the complex, simple.</li>
-<li>We are experts and experienced in design and build.</li>
-</ul>
-  </div>
-  <div class="row-start-1 col-start-2 col-span-2 bg-purple-50 rounded-xl p-8">
-<h2>What makes a great app or site?</h2>
-<ul>
-<li>Blazing Fast, latest technology</li>
-<li>Easy to Update</li>
-<li>Publishing Control</li>
-<li>Secure</li>
-<li>Optimised for search engines</li>
-</ul>
-  </div>
-  </div>
 </Layout>
   )
 }

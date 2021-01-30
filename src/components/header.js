@@ -7,7 +7,7 @@ const Header = ({ siteTitle }) => (
     <div class="flex items-center">
   <div class="flex-none">
     <a href="/">
-    <img class="logo" src="https://cdn.spdy.live/uploads/jnx2_d83e25e919.svg"></img>
+    <img class="logo" src="https://cdn.spdy.live/uploads/jnx2_d83e25e919.svg" alt="JakeJnx Logo"></img>
     </a>
   </div>
   <div class="flex-1 text-center space-x-1">
