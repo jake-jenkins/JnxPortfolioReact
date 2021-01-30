@@ -1,9 +1,18 @@
 import * as React from "react"
+import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
 
 const IndexPage = () => {
   return (
+
 <Layout>
+
+<Helmet>
+    <title>Welcome - Jake Jenkins, Front End Web Developer</title>
+    <meta name="description" content="Professional Portfolio for Jake Jenkins, Front End Web Developer.  Lets build Awesome Web Apps and Websites." />
+    <meta name="keywords" cpntent="jake,jenkins,web,design,development,developer,portfolio,app,react,frond end,node,mvc,asp,net,sql,wales,bristol,cardiff,newport" />
+  </Helmet>
+
 <br/>
 <div class="box shadow-xl rounded-b-xl rounded-t-md text-center text-white text-5xl py-36 px-5 bg-gradient-to-r from-purple-900 to-purple-500">
   <p>
@@ -11,8 +20,10 @@ const IndexPage = () => {
   </p>
 </div>
 <br />
-<h1>Welcome to JakeJnx.com</h1>
-<p>Jake Jenkins is a Front End Web Developer.</p>
+<div class="text-lg p-6">
+<h1>Introducing Cutting-Edge Web Development</h1>
+<p>Jake Jenkins is a Front End Web Developer with a passion for building the best, easiest to use web sites and applications.</p>
+</div>
 <p>&nbsp;</p>
 
 <div class="grid grid-cols-1 md:grid-cols-2">

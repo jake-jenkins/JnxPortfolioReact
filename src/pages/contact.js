@@ -1,10 +1,16 @@
 import * as React from "react"
+import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
 
 const Contact = () => {
   return (
     
 <Layout>
+<Helmet>
+    <title>Contact - Jake Jenkins, Front End Web Developer</title>
+    <meta name="description" content="Professional Portfolio for Jake Jenkins, Front End Web Developer.  Lets build Awesome Web Apps and Websites." />
+    <meta name="keywords" cpntent="jake,jenkins,web,design,development,developer,portfolio,app,react,frond end,node,mvc,asp,net,sql,wales,bristol,cardiff,newport" />
+  </Helmet>
 <h1>Contact JNX Web Development</h1>
 <p>Please note that Jake Jenkins is a sole trader, Trading as JNX</p>
 <p>&nbsp;</p>
