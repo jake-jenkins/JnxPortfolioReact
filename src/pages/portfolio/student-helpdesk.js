@@ -20,7 +20,19 @@ const StudentHelpdesk = () => (
 </div>
 <div class="p-6">
 <h1>Summary</h1>
-<p>Text</p>
+<p>
+The Student Helpdesk was a new system introduced in 2018 to a university with 30,000 students.  The aim was to provide support via an online helpdesk.</p>
+<p>
+The system was a .net web app built by a supplier.  But work was needed to customise the front-end and enhance the user experience.</p>
+
+<p>
+  HTML, CSS and Javascript was utilised to optimise the system for the university and students.</p>
+</div>
+<div class="p-8">
+<video width="100%" loop muted autoplay preload="auto">
+    <source src="/azo.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
 </div>
   </Layout>
 );

@@ -44,7 +44,10 @@ image
 </div>
 
 <div class="box-content p-36 bg-gray-300 text-center">
-image
+<video loop muted autoplay preload="auto">
+    <source src="/timeline.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 <div class="p-6">
