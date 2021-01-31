@@ -43,7 +43,7 @@ The application allows staff to search for a patient and view demographics, note
 image
 </div>
 
-<div class="box-content p-36 bg-gray-300 text-center">
+<div class="box-content p-2 text-center">
 <video loop muted autoplay preload="auto">
     <source src="https://cdn.jnx.app/timeline.mp4" type="video/mp4" />
     Your browser does not support the video tag.
