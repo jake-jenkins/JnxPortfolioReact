@@ -2,5 +2,5 @@
   for = "/*"
   [headers.values]
     X-Frame-Options = 'SAMEORIGIN'
-    Content-Security-Policy = "default-src 'self' 'unsafe-inline'"
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline' *.spdy.live"
     X-Content-Type-Options = 'nosniff'
