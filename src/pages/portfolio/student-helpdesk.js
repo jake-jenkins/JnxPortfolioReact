@@ -30,7 +30,7 @@ The system was a .net web app built by a supplier.  But work was needed to custo
 </div>
 <div class="p-8">
 <video width="100%" loop muted autoplay preload="auto">
-    <source src="/azo.mp4" type="video/mp4" />
+    <source src="https://cdn.jnx.app/azo.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
 </div>
