@@ -55,10 +55,9 @@ const IndexPage = () => {
 
   </div>
   <div class="text-lg p-6">
-    <h2>Availability</h2><br/>
-    <div class="box-border h-4 w-4 bg-pink-500 inline-block rounded-full"></div> Looking for a new role<br/>
+    <h2>Recruiter Information</h2><br/>
+    <div class="box-border h-4 w-4 bg-pink-500 inline-block rounded-full"></div> Planning to relocate to Bristol<br/>
     <div class="box-border h-4 w-4 bg-pink-500 inline-block rounded-full"></div> Remote working or based in South Wales or Bristol<br/>
-    <div class="box-border h-4 w-4 bg-pink-500 inline-block rounded-full"></div> 1 month notice period
   </div>
 
 </div>
