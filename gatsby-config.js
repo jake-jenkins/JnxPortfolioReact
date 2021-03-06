@@ -33,17 +33,5 @@ module.exports = {
       },
       __key: "pages",
     },
-    {
-      resolve: "gatsby-source-strapi",
-      options: {
-        apiURL: "https://api.spdy.live",
-        contentTypes: [
-          "blogs",
-          "portfolios",
-          "tags"
-        ],
-        queryLimit: 1000,
-      },
-    },
   ],
 };
