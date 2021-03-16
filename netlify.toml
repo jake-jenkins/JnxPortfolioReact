@@ -1,6 +1,0 @@
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = 'SAMEORIGIN'
-    Content-Security-Policy = "default-src 'self' 'unsafe-inline' cdn.jnx.app"
-    X-Content-Type-Options = 'nosniff'
